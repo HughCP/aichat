@@ -18,6 +18,7 @@ require (
 	github.com/natefinch/lumberjack v0.0.0-20201021141957-47ffae23317c
 	github.com/qifengzhang007/goCurl v1.3.8
 	github.com/rabbitmq/amqp091-go v1.5.0
+	github.com/sashabaranov/go-openai v1.5.7 // indirect
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.14.0
 	go.uber.org/zap v1.23.0
